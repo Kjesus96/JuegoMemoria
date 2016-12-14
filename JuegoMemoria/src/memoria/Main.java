@@ -14,7 +14,7 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        new Pantalla().setVisible(true);
+        new Ventana().setVisible(true);
         
     }
     
