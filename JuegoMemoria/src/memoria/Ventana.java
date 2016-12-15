@@ -93,7 +93,7 @@ public class Ventana extends JFrame {
                                              "y posteriormente volver a jugar de nuevo\n"+
                                              "Igualmente el boton de limpiar pondra en pantalla una ventana para cambiar el nombre del jugador sino\n"+
                                              "solo oprimir en el boton de jugar por si es el mismo jugador\n"+
-                                             "Keylor Cruz Carvajal-Estudiante Ingenieria en Sistemas UNA-CR"   );
+                                             "Keylor Cruz Carvajal/Carolina Jimenez Murillo-Estudiante Ingenieria en Sistemas UNA-CR"   );
         setIconImage(new ImageIcon(getClass().getResource("/memoria/icon.png")).getImage());
         ((JPanel)getContentPane()).setOpaque(false); 
         ImageIcon uno=new ImageIcon(this.getClass().getResource("/memoria/fondo1.jpg")); 
